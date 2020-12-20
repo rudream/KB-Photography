@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.js": "/KB-Photography/static/js/main.040cad35.chunk.js",
+    "main.js.map": "/KB-Photography/static/js/main.040cad35.chunk.js.map",
+    "runtime-main.js": "/KB-Photography/static/js/runtime-main.3ccd8dda.js",
+    "runtime-main.js.map": "/KB-Photography/static/js/runtime-main.3ccd8dda.js.map",
+    "static/js/2.b5beb92b.chunk.js": "/KB-Photography/static/js/2.b5beb92b.chunk.js",
+    "static/js/2.b5beb92b.chunk.js.map": "/KB-Photography/static/js/2.b5beb92b.chunk.js.map",
+    "index.html": "/KB-Photography/index.html",
+    "precache-manifest.65eeeceb442f04c7e12485020c928dc7.js": "/KB-Photography/precache-manifest.65eeeceb442f04c7e12485020c928dc7.js",
+    "service-worker.js": "/KB-Photography/service-worker.js",
+    "static/js/2.b5beb92b.chunk.js.LICENSE.txt": "/KB-Photography/static/js/2.b5beb92b.chunk.js.LICENSE.txt",
+    "static/media/1.jpg": "/KB-Photography/static/media/1.fff4f159.jpg",
+    "static/media/2.jpg": "/KB-Photography/static/media/2.d0c70133.jpg",
+    "static/media/3.jpg": "/KB-Photography/static/media/3.c9a12cda.jpg",
+    "static/media/4.jpg": "/KB-Photography/static/media/4.ec2605b0.jpg",
+    "static/media/5.jpg": "/KB-Photography/static/media/5.dd813c0e.jpg",
+    "static/media/6.jpg": "/KB-Photography/static/media/6.f190f575.jpg",
+    "static/media/7.jpg": "/KB-Photography/static/media/7.df247f9c.jpg",
+    "static/media/8.jpg": "/KB-Photography/static/media/8.ec7520a4.jpg",
+    "static/media/calendar.svg": "/KB-Photography/static/media/calendar.e0707794.svg",
+    "static/media/cities.jpg": "/KB-Photography/static/media/cities.4fe14866.jpg",
+    "static/media/devices.svg": "/KB-Photography/static/media/devices.7b6e3fea.svg",
+    "static/media/international.jpg": "/KB-Photography/static/media/international.93a0d62e.jpg",
+    "static/media/lakes.jpg": "/KB-Photography/static/media/lakes.42f7382d.jpg",
+    "static/media/logo.png": "/KB-Photography/static/media/logo.290e4435.png",
+    "static/media/mountains.jpg": "/KB-Photography/static/media/mountains.b7d47afd.jpg",
+    "static/media/portrait.svg": "/KB-Photography/static/media/portrait.0d591e7a.svg",
+    "static/media/poster.svg": "/KB-Photography/static/media/poster.77e468a5.svg",
+    "static/media/winter.jpg": "/KB-Photography/static/media/winter.ad971f30.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3ccd8dda.js",
+    "static/js/2.b5beb92b.chunk.js",
+    "static/js/main.040cad35.chunk.js"
+  ]
+}
